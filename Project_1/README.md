@@ -1,6 +1,6 @@
 # Requirements
 
-## onlinehd
+## Common requirements
 ```
 pip install onlinehd
 ```
